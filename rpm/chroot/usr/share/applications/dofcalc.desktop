@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Encoding=UTF-8
+Name=DOFcalc
+Comment=Depth of Field Calculator
+Exec=dofcalc
+Icon=/usr/share/icons/hicolor/48x48/apps/dofcalc.png
+Terminal=false
+Categories=Utility

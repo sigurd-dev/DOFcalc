@@ -1,0 +1,1 @@
+sdrpmerizor --nosign --name dofcalc --version 1.0 --release 1 --group system --summary "Depth of Field Calculator" --description "Depth of Field Calculator with graphical representation" --buildarch x86_64 --packager "sigurd@dagestad.info" --rootdir chroot/
